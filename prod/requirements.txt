@@ -1,0 +1,11 @@
+torch
+torchvision
+
+streamlit>=1.35
+numpy
+pandas
+scikit-learn
+Pillow
+matplotlib
+seaborn
+requests
